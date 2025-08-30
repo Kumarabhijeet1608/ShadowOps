@@ -296,16 +296,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Copyright (c) 2024 ShadowOps Team**
 
----
-
-## 📞 **Contact Information**
-
-- **Author**: ShadowOps Team
-- **Email**: team@shadowops.com
-- **GitHub**: [@Kumarabhijeet1608](https://github.com/Kumarabhijeet1608)
-- **LinkedIn**: [ShadowOps Team](https://www.linkedin.com/company/shadowops)
-
----
 
 ## ⭐ **Support the Project**
 
